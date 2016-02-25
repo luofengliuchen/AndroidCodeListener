@@ -1,0 +1,4 @@
+# AndroidCodeListener
+android keycode test
+
+这是一个android测试软键盘上按键的Demo，主要是对actionID和keycode的测试
